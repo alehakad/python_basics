@@ -10,7 +10,7 @@ def sphere():
     except:
         counter.set("Ошибка")
 def write():
-    if i.get=="Текст":
+    if i.get()=="Текст":
         with open("text.txt", 'w') as output_file:
             output_file.write(str(counter.get()))
     else:
