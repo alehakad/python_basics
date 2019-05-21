@@ -2,7 +2,7 @@ from tkinter import *
 import json
 
 
-with open('todo_list.json', 'w', encoding='windows-1251') as file_write:
+with open('todo_list.json', 'w') as file_write:
             json.dump([], file_write)
 
 
