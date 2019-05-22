@@ -56,7 +56,6 @@ def ext():
     
 
 root = Tk() 
-counter = DoubleVar() 
 task = StringVar() 
 cat = StringVar() 
 time = StringVar() 
