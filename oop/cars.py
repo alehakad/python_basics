@@ -1,4 +1,3 @@
-import random
 allman = []
 mes = "This model is not serviced, sorry"
 def ser(car):
