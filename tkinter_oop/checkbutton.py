@@ -7,8 +7,7 @@ class MyGUI:
         # Создать главное окно.
         self.main_window = tkinter.Tk()
 
-        # Создать две рамки. Одну для элементов Checkbutton
-        # и еще одну для обычных элементов Button.
+       
         self.top_frame = tkinter.Frame(self.main_window)
         self.bottom_frame = tkinter.Frame(self.main_window)
  
