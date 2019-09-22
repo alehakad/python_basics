@@ -1,3 +1,4 @@
+# download pygame, alarm before running
 import tkinter
 from pygame import mixer 
 class MyGUI:
