@@ -1,3 +1,4 @@
+# digital clock usin tkinter
 # download pygame and alarm before running
 import tkinter
 from pygame import mixer
