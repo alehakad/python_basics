@@ -1,1 +1,1 @@
-1
+Simple snake game with highscores
