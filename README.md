@@ -1,1 +1,1 @@
-Python projects while learning
+Python projects from the python course in university
